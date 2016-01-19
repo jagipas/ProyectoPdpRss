@@ -6,6 +6,19 @@ Base para el proyecto de PDP basada en el ejemplo SyncAdapter de los repositorio
 de google.
 ------------
 
+Parsers buenos para rss 2.0 xml:
+
+-Simple
+https://github.com/salendron/Simple-Rss2-Android
+
+-android-rss, recomendado en stackoverflow
+https://github.com/ahorn/android-rss
+
+Validador de paginas rss:
+http://feedvalidator.org/
+
+-------------
+
 This sample demonstrates using SyncAdapter to fetch background data
 for an app. SyncAdapters can be used to execute your data transfer
 code at configurable intervals, while efficiently using battery and
